@@ -1,0 +1,29 @@
+#Outer{
+    background-color: lemonchiffon;
+}
+#Inner{
+    background-color: pink;
+        justify-content: center;
+            align-items: center;
+}
+#Inner div{
+    border: 1px solid black;
+    background-color: aliceblue;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    width: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    display: inline-block;
+
+}
+#test{
+    background-color: bisque;
+    color: black;
+    border: 2px  double black;
+    padding: 30px;
+    margin: 30px;
+    text-align: center;
+    border-radius: 5px;
+}
